@@ -1,8 +1,7 @@
-
 Pod::Spec.new do |s|
   s.name           = 'Helpshift'
   s.version        = '2.0.0'
-  s.summary        = 'Customer service helpdesk for mobile applications.'
+  s.summary        = 'Customer service help desk for iOS apps.'
   s.license        = {:type => 'Commercial', :text => 'See http://www.helpshift.com/terms/'}
   s.homepage       = 'http://www.helpshift.com/'
   s.author         = {"Helpshift" => "support@helpshift.com" }
